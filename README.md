@@ -36,7 +36,7 @@ I'm working for StartupCompany as an Engineer, PM, ExecutiveOfficer.
 - `ELB`
 - `EC2`
 - `IAM`
-- `SES`
+- `SNS`
 - `RDS`
 - `Lambda`
 - `Route 53`

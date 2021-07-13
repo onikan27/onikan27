@@ -42,6 +42,7 @@ I'm working for StartupCompany as an Engineer, PM, ExecutiveOfficer.
 - `Route 53`
 - `CloudFront`
 - `CloudWatch`
+- `Amazon Polly`
 - `SystemsManager`
 - `ECS`（`Fargate`）
 

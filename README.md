@@ -45,6 +45,8 @@ I'm working for StartupCompany as an Engineer, PM, ExecutiveOfficer.
 - `Amazon Polly`
 - `SystemsManager`
 - `ECS`（`Fargate`）
+- `Amazon Cognito`
+- `Amazon Translate`
 
 `Vercel`
 `Heroku`

@@ -48,8 +48,14 @@ I'm working for StartupCompany as an Engineer, PM, ExecutiveOfficer.
 - `Amazon Cognito`
 - `Amazon Translate`
 
+`GCP`
+
+- `Cloud Storage`
+- `Cloud Speech-to-Text`
+
 `Vercel`
 `Heroku`
+`Terraform`
 
 【Interest】
 

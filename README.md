@@ -36,14 +36,17 @@ I'm working for StartupCompany as an Engineer, PM, ExecutiveOfficer.
 - `ELB`
 - `EC2`
 - `IAM`
+- `ACM`
 - `SNS`
 - `RDS`
 - `Lambda`
 - `Route 53`
 - `CloudFront`
 - `CloudWatch`
+- `ElastiCache`
 - `Amazon Polly`
 - `SystemsManager`
+- `Secrets Manager`
 - `ECS`（`Fargate`）
 - `Amazon Cognito`
 - `Amazon Translate`
@@ -56,6 +59,7 @@ I'm working for StartupCompany as an Engineer, PM, ExecutiveOfficer.
 `Vercel`
 `Heroku`
 `Terraform`
+`Github Actions`
 
 【Interest】
 

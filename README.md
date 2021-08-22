@@ -18,7 +18,7 @@ I'm working for StartupCompany as an Engineer, PM, ExecutiveOfficer.
 
 **Languages and Framework**
 
-`Ruby`｜`Ruby on Rails`｜`JavaScript`｜`TypeScript`｜`Vue.js`｜`React.js`｜`React Native`｜`Next.js`｜
+`Ruby`｜`Ruby on Rails`｜`JavaScript`｜`TypeScript`｜`Vue.js`｜`React.js`｜`React Native`｜`Next.js`｜`Golang`｜
 
 **Infrastructure**
 

@@ -28,7 +28,7 @@ I'm working for StartupCompany as an Engineer, PM, ExecutiveOfficer.
 
 `GCP`
 
-`Cloud Storage`｜`Cloud Speech-to-Text`
+`Cloud Storage`｜`Cloud Speech-to-Text`｜
 
 - `Vercel`
 - `Heroku`

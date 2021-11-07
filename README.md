@@ -11,7 +11,7 @@
 ---
 
 
-I'm working for StartupCompany as an Engineer, PM.
+I'm working for StartupCompany as an Engineer
 [My Portfolio Page](https://onikan.com/)
 
 【Skills】

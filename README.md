@@ -33,14 +33,14 @@
 
 【興味・関心】
 
-- `インフラ`
+**インフラ**
 
 `Network`,`Iaas`,`DevOps`,`AWS`,`GCP`,`firebase` ...etc
 
-- `言語`
+**言語**
 
 `Go!` `Go!` `Golang!`
 
-- `その他`
+**その他**
 
 `AR`,`VR`,`MicroServices`

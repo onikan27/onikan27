@@ -10,10 +10,6 @@
 
 ---
 
-
-I'm working for StartupCompany as an Engineer
-[My Portfolio Page](https://onikan.com/)
-
 【Skills】
 
 **Languages and Framework**
@@ -24,7 +20,7 @@ I'm working for StartupCompany as an Engineer
 
 `AWS`
 
-`S3`｜`VPC`｜`ELB`｜`EC2`｜`IAM`｜`ACM`｜`SNS`｜`RDS`｜`Lambda`｜`Route 53`｜`CloudFront`｜`CloudWatch`｜`ElastiCache`｜`Amazon Polly`｜`SystemsManager`｜`Secrets Manager`｜`ECS`（`Fargate`）｜`Amazon Cognito`｜`Amazon Translate`｜
+`S3`｜`VPC`｜`ELB`｜`EC2`｜`IAM`｜`ACM`｜`SNS`｜`RDS`｜`Lambda`｜`Route 53`｜`CloudFront`｜`CloudWatch`｜`ElastiCache`｜`Amazon Polly`｜`SystemsManager`｜`Secrets Manager`｜`ECS`（`Fargate`）｜`Amazon Cognito`｜`Amazon Translate`｜`CodeBuild`｜`EFS`｜
 
 `GCP`
 

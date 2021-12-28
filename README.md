@@ -10,13 +10,13 @@
 
 ---
 
-【Skills】
+【スキル】
 
-**Languages and Framework**
+**言語・フレームワーク**
 
 `Ruby`｜`Ruby on Rails`｜`JavaScript`｜`TypeScript`｜`Vue.js`｜`React.js`｜`React Native`｜`Next.js`｜`Golang`｜
 
-**Infrastructure**
+**インフラ**
 
 `AWS`
 
@@ -31,16 +31,16 @@
 - `Terraform`
 - `Github Actions （CI/CD）`
 
-【Interest】
+【興味・関心】
 
-- `Infrastructure`
+- `インフラ`
 
 `Network`,`Iaas`,`DevOps`,`AWS`,`GCP`,`firebase` ...etc
 
-- `Languages`
+- `言語`
 
 `Go!` `Go!` `Golang!`
 
-- `Others`
+- `その他`
 
 `AR`,`VR`,`MicroServices`

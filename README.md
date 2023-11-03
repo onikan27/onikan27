@@ -12,7 +12,7 @@ I'm working as Software Engineer.
 
 `AWS`
 
-`S3`｜`VPC`｜`ELB`｜`EC2`｜`IAM`｜`ACM`｜`SNS`｜`RDS`｜`Lambda`｜`Route 53`｜`CloudFront`｜`CloudWatch`｜`ElastiCache`｜`Amazon Polly`｜`SystemsManager`｜`Secrets Manager`｜`ECR`｜`ECS`（`Fargate`）｜`Amazon Cognito`｜`Amazon Translate`｜
+`S3`｜`VPC`｜`ELB(ALB)`｜`EC2`｜`IAM`｜`ACM`｜`SNS`｜`RDS`｜`Lambda`｜`Route 53`｜`CloudFront`｜`CloudWatch`｜`ElastiCache`｜`Amazon Polly`｜`SystemsManager`｜`Secrets Manager`｜`ECR`｜`ECS`（`Fargate`）｜`Amazon Cognito`｜`Amazon Translate`｜`AWS DMS`｜`AWS OpenSearch`｜`Amazon Aurora Serverless`｜
 
 `GCP`
 
